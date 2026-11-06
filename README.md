@@ -78,3 +78,7 @@ git clone https://github.com/LanyXiaosheng/lany-creator-workbench-skill.git ~/.c
 | [lany-small-bet-business-skill](https://github.com/LanyXiaosheng/lany-small-bet-business-skill) | `../lany-small-bet-business-skill/SKILL.md` |
 | [lany-trust-relationship-skill](https://github.com/LanyXiaosheng/lany-trust-relationship-skill) | `../lany-trust-relationship-skill/SKILL.md` |
 | lany-value-positioning-skill（远程待创建；本地 `../lany-value-positioning-skill/SKILL.md`） | `../lany-value-positioning-skill/SKILL.md` |
+
+## 操作手册
+
+[本地操作手册](references/workbook.md)包含可填写模板、完整虚构案例、反例与验收步骤，可与方法笔记配合使用，无需访问原文网站。
