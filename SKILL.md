@@ -19,7 +19,7 @@ description: Lany 创作者工作台总入口。用户调用本工具箱、希�
 
 | 当前问题或产物 | 读取技能 | 判断边界 |
 | --- | --- | --- |
-| 面向谁、解决什么问题、凭什么值得信任 | 价值定位（远程待创建；本地 `../lany-value-positioning-skill/SKILL.md`） | 定位假设与证据，不虚构市场结论 |
+| 面向谁、解决什么问题、凭什么值得信任 | [价值定位](https://github.com/LanyXiaosheng/lany-value-positioning-skill/blob/main/SKILL.md) | 定位假设与证据，不虚构市场结论 |
 | 从一件小事获得真实付费反馈 | [小生意验证](https://github.com/LanyXiaosheng/lany-small-bet-business-skill/blob/main/SKILL.md) | 交付、报价假设、小规模验证，不承诺收益 |
 | 长期维护互惠关系、兑现价值 | [信任关系](https://github.com/LanyXiaosheng/lany-trust-relationship-skill/blob/main/SKILL.md) | 提供行动建议，不自动联系别人 |
 | 把原始素材形成可调用的认识 | [洞见卡](https://github.com/LanyXiaosheng/lany-insight-card-skill/blob/main/SKILL.md) | 来源、边界和检验方法 |
@@ -28,9 +28,9 @@ description: Lany 创作者工作台总入口。用户调用本工具箱、希�
 | 已有经历、观点或素材，要能拍的口播 | [短视频脚本](https://github.com/LanyXiaosheng/lany-short-video-script-skill/blob/main/SKILL.md) | 素材支持的表达，不代造经历 |
 | 从对标中学会起作用的方法 | [内容拆解迁移](https://github.com/LanyXiaosheng/lany-content-remix-skill/blob/main/SKILL.md) | 分开结构观察与心理假设 |
 | 持续创作但无法判断该改哪里 | [内容实验](https://github.com/LanyXiaosheng/lany-content-experiment-skill/blob/main/SKILL.md) | 下一轮可判断试验，不把相关性当因果 |
-| 重复手工工作想交给 AI，流程常跳步或返工 | AI 工作流（远程待创建；本地 `../lany-ai-workflow-skill/SKILL.md`） | 输入输出、人机分工、验收与恢复；不是默认开发完整软件 |
-| 一般项目迟迟不动、执行偏离或想做阶段复盘 | 行动复盘（远程待创建；本地 `../lany-action-review-skill/SKILL.md`） | 最小交付、预判与结果、下一步；内容指标问题仍选内容实验 |
-| 设计社群准入、参与路径、贡献保护与退出机制 | 社群设计（远程待创建；本地 `../lany-community-design-skill/SKILL.md`） | 机制草案；一对一客户回访仍选信任关系 |
+| 重复手工工作想交给 AI，流程常跳步或返工 | [AI 工作流](https://github.com/LanyXiaosheng/lany-ai-workflow-skill/blob/main/SKILL.md) | 输入输出、人机分工、验收与恢复；不是默认开发完整软件 |
+| 一般项目迟迟不动、执行偏离或想做阶段复盘 | [行动复盘](https://github.com/LanyXiaosheng/lany-action-review-skill/blob/main/SKILL.md) | 最小交付、预判与结果、下一步；内容指标问题仍选内容实验 |
+| 设计社群准入、参与路径、贡献保护与退出机制 | [社群设计](https://github.com/LanyXiaosheng/lany-community-design-skill/blob/main/SKILL.md) | 机制草案；一对一客户回访仍选信任关系 |
 
 ## 串联时保留证据
 
