@@ -1,5 +1,7 @@
 # 总入口使用说明
 
+> 发布状态：本地提供全部十二项专项；其中价值定位、AI工作流、行动复盘、社群设计四个远程仓库暂因GitHub内容创建限流待建立。其余链接可用。
+
 不知道该用哪个专项技能时从这里开始；已明确要脚本、卡片等产物时可直接调用对应技能。
 
 ## 需要提供
@@ -64,9 +66,9 @@ git clone https://github.com/LanyXiaosheng/lany-creator-workbench-skill.git ~/.c
 
 | 独立仓库 | 本地入口 |
 |---|---|
-| [lany-action-review-skill](https://github.com/LanyXiaosheng/lany-action-review-skill) | `../lany-action-review-skill/SKILL.md` |
-| [lany-ai-workflow-skill](https://github.com/LanyXiaosheng/lany-ai-workflow-skill) | `../lany-ai-workflow-skill/SKILL.md` |
-| [lany-community-design-skill](https://github.com/LanyXiaosheng/lany-community-design-skill) | `../lany-community-design-skill/SKILL.md` |
+| lany-action-review-skill（远程待创建；本地 `../lany-action-review-skill/SKILL.md`） | `../lany-action-review-skill/SKILL.md` |
+| lany-ai-workflow-skill（远程待创建；本地 `../lany-ai-workflow-skill/SKILL.md`） | `../lany-ai-workflow-skill/SKILL.md` |
+| lany-community-design-skill（远程待创建；本地 `../lany-community-design-skill/SKILL.md`） | `../lany-community-design-skill/SKILL.md` |
 | [lany-content-experiment-skill](https://github.com/LanyXiaosheng/lany-content-experiment-skill) | `../lany-content-experiment-skill/SKILL.md` |
 | [lany-content-remix-skill](https://github.com/LanyXiaosheng/lany-content-remix-skill) | `../lany-content-remix-skill/SKILL.md` |
 | [lany-insight-card-skill](https://github.com/LanyXiaosheng/lany-insight-card-skill) | `../lany-insight-card-skill/SKILL.md` |
@@ -75,4 +77,4 @@ git clone https://github.com/LanyXiaosheng/lany-creator-workbench-skill.git ~/.c
 | [lany-short-video-script-skill](https://github.com/LanyXiaosheng/lany-short-video-script-skill) | `../lany-short-video-script-skill/SKILL.md` |
 | [lany-small-bet-business-skill](https://github.com/LanyXiaosheng/lany-small-bet-business-skill) | `../lany-small-bet-business-skill/SKILL.md` |
 | [lany-trust-relationship-skill](https://github.com/LanyXiaosheng/lany-trust-relationship-skill) | `../lany-trust-relationship-skill/SKILL.md` |
-| [lany-value-positioning-skill](https://github.com/LanyXiaosheng/lany-value-positioning-skill) | `../lany-value-positioning-skill/SKILL.md` |
+| lany-value-positioning-skill（远程待创建；本地 `../lany-value-positioning-skill/SKILL.md`） | `../lany-value-positioning-skill/SKILL.md` |
