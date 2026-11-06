@@ -19,7 +19,19 @@ $lany-creator-workbench-skill
 
 ## 会得到什么
 
-定位草案、洞见卡、口播稿或下轮实验等当前任务的具体产物，以及简短的选路理由。需要多个环节时保留输入输出，不机械地运行全部九个技能。
+定位草案、洞见卡、口播稿、下轮实验、AI 工作流或社群机制等当前任务的具体产物，以及简短的选路理由。需要多个环节时保留输入输出，不机械地运行全部十二个专项技能。
+
+## 星球 2026 增补
+
+新增 AI 工作流、行动复盘、社群设计三条入口，并给原九项技能补充知识星球来源。总入口可独立选路；只有用到的专项才会被读取。
+
+```text
+$lany-creator-workbench-skill
+每周整理客户资料要重复四小时，步骤经常漏。我已有一份手工完成的样例。
+请帮我设计一个可验收的 AI 协作流程，先做方案，不安装软件或修改账户。
+```
+
+此例应选择 AI 工作流，读取样例并交付人机分工、完成标准及验证办法；不转去做内容定位或要求建立知识库。
 
 ## 明确任务时直接调用
 
@@ -44,4 +56,23 @@ git clone https://github.com/LanyXiaosheng/lany-creator-workbench-skill.git ~/.c
 
 总入口需要读取专项技能后才能完整执行。可单独安装需要的专项技能，并与本目录保持同级；专项技能列表及公开仓库链接见 [SKILL.md](SKILL.md)。它不会因安装本入口而自动安装其他技能。
 
-本独立库从[合集的已发布版本](https://github.com/LanyXiaosheng/lany-creator-skills/tree/367cd21c5417300c8122fe25ef4ff2e4d3f8bd3f)拆分，保留原有来源归属。浏览其他技能可进入[合集](https://github.com/LanyXiaosheng/lany-creator-skills)。
+初次拆分的提交历史继续保留；当前工作版本已纳入2026年知识星球增强方法。
+
+## 专项技能依赖
+
+本仓库只含总入口，不自动安装其余十二项。按需安装所用专项；全部安装时保持下列目录与总入口同级。
+
+| 独立仓库 | 本地入口 |
+|---|---|
+| [lany-action-review-skill](https://github.com/LanyXiaosheng/lany-action-review-skill) | `../lany-action-review-skill/SKILL.md` |
+| [lany-ai-workflow-skill](https://github.com/LanyXiaosheng/lany-ai-workflow-skill) | `../lany-ai-workflow-skill/SKILL.md` |
+| [lany-community-design-skill](https://github.com/LanyXiaosheng/lany-community-design-skill) | `../lany-community-design-skill/SKILL.md` |
+| [lany-content-experiment-skill](https://github.com/LanyXiaosheng/lany-content-experiment-skill) | `../lany-content-experiment-skill/SKILL.md` |
+| [lany-content-remix-skill](https://github.com/LanyXiaosheng/lany-content-remix-skill) | `../lany-content-remix-skill/SKILL.md` |
+| [lany-insight-card-skill](https://github.com/LanyXiaosheng/lany-insight-card-skill) | `../lany-insight-card-skill/SKILL.md` |
+| [lany-knowledge-workflow-skill](https://github.com/LanyXiaosheng/lany-knowledge-workflow-skill) | `../lany-knowledge-workflow-skill/SKILL.md` |
+| [lany-project-learning-skill](https://github.com/LanyXiaosheng/lany-project-learning-skill) | `../lany-project-learning-skill/SKILL.md` |
+| [lany-short-video-script-skill](https://github.com/LanyXiaosheng/lany-short-video-script-skill) | `../lany-short-video-script-skill/SKILL.md` |
+| [lany-small-bet-business-skill](https://github.com/LanyXiaosheng/lany-small-bet-business-skill) | `../lany-small-bet-business-skill/SKILL.md` |
+| [lany-trust-relationship-skill](https://github.com/LanyXiaosheng/lany-trust-relationship-skill) | `../lany-trust-relationship-skill/SKILL.md` |
+| [lany-value-positioning-skill](https://github.com/LanyXiaosheng/lany-value-positioning-skill) | `../lany-value-positioning-skill/SKILL.md` |
